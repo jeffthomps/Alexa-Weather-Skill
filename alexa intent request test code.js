@@ -1,10 +1,10 @@
 {
   "session": {
     "new": false,
-    "sessionId": "amzn1.echo-api.session.[unique-value-here]",
+    "sessionId": "amzn1.echo-api.session.JeffsSessionID",
     "attributes": {},
     "user": {
-      "userId": "amzn1.ask.account.[unique-value-here]"
+      "userId": "amzn1.ask.account.JeffsUserID"
     },
     "application": {
       "applicationId": "amzn1.ask.skill.9a2278b9-9806-4ada-a5ea-e2d3322b5a00"
@@ -15,9 +15,9 @@
     "locale": "en-US",
     "timestamp": "2016-10-27T21:06:28Z",
     "type": "IntentRequest",
-    "requestId": "amzn1.echo-api.request.[unique-value-here]",
+    "requestId": "amzn1.echo-api.request.JeffsRequestID",
     "intent": {
-        "name": "conditions"
+      "name": "conditions"
     }
   },
   "context": {
@@ -34,7 +34,7 @@
         "applicationId": "amzn1.ask.skill.9a2278b9-9806-4ada-a5ea-e2d3322b5a00"
       },
       "user": {
-        "userId": "amzn1.ask.account.[unique-value-here]"
+        "userId": "amzn1.ask.account.JeffsUserID"
       }
     }
   }
