@@ -1,2 +1,11 @@
 conditions what are the current condtions
+conditions current conditions
 conditions conditions
+
+temperature what is the current temperature
+temperature current temperature
+temperature temperature
+
+windSpeed what is the current wind speed
+windSpeed current wind speed
+windSpeed wind speed
