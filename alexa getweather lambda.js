@@ -41,7 +41,7 @@ exports.handler = (event, context) => {
         console.log(`INTENT REQUEST`)
 
 /*
-			var endpoint = "https://api.wunderground.com/api/e7320a5cc75e4a51/conditions/q/pws:KMICOMST2.json"
+		var endpoint = "https://api.wunderground.com/api/"+process.env.wundergroundApiKey+"/conditions/q/pws:KMICOMST2.json"
             var body = ""
             https.get(endpoint, (response) => {
               response.on('data', (chunk) => { body += chunk })
