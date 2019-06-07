@@ -12,7 +12,7 @@ Personal Weather Station (PWS) owners/contributors will continue to be eligible 
     Call volume: 1500/day, 30/minute
 
 
-Here is a link to a forum discussion on the recent API change:
+Here is a link to the WU forum discussion on the recent API change:
 https://apicommunity.wunderground.com/weatherapi/topics/weather-underground-api-update
 
 Here is the documentation:
