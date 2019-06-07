@@ -2,7 +2,8 @@
 This is an Alexa Skill to obtain the current weather condtions from a Weather Underground personal weather station. 
 
 Here is the text from the Forum Update
-Personal Weather Station (PWS) owners/contributors will continue to be eligible for a free replacement API service selected from    our standard IBM/Weather Company standard offerings that contain:
+
+ Personal Weather Station (PWS) owners/contributors will continue to be eligible for a free replacement API service selected from     our standard IBM/Weather Company standard offerings that contain:
  
 
     Current observations from the PWS network
