@@ -13,9 +13,9 @@ Here is the text from the Forum Update:
     Call volume: 1500/day, 30/minute
 
 
-Here is a link to the WU forum discussion on the recent API change:
+WU forum discussion on the recent API change:
 https://apicommunity.wunderground.com/weatherapi/topics/weather-underground-api-update
 
-Here is the documentation:
+Documentation:
 https://docs.google.com/document/d/1eKCnKXI9xnoMGRRzOL1xPCBihNV2rOet08qpE_gArAY/edit
 
