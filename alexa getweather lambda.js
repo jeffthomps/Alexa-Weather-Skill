@@ -46,7 +46,7 @@ exports.handler = (event, context) => {
         // Intent Request
         console.log(`INTENT REQUEST HAS BEEN ENTERED`);
 
-        var endpoint = "https://api.weather.com/v2/pws/observations/current?stationId=KMICOMST2&format=json&units=e&apiKey=dd7c789c34994a44bc789c34994a4417";
+        var endpoint = "https://api.weather.com/v2/pws/observations/current?stationId=KMICOMST2&format=json&units=e&apiKey=##put key here##";
         var body = "";
 
         //  resp.on('data', function(data) {
@@ -111,7 +111,7 @@ exports.handler = (event, context) => {
                                                 switch (event.request.intent.name) {
                                                   case "conditions":
                                                     var endpoint = "https://api.weather.com/v2/pws/observations/current?stationId=KMICOMST2&format=json&units=e&apiKey=" + process.env.wundergroundApiKey
-                                                    //https: //api.weather.com/v2/pws/observations/current?stationId=KMICOMST2&format=json&units=e&apiKey=dd7c789c34994a44bc789c34994a4417
+                                                    //https: //api.weather.com/v2/pws/observations/current?stationId=KMICOMST2&format=json&units=e&apiKey=##put key here##
                                                     //var endpoint = "https://api.wunderground.com/api/" + process.env.wundergroundApiKey + "/conditions/q/pws:KMICOMST2.json"
                                                     //var endpoint = "https://api.wunderground.com/api/"+process.env.wundergroundApiKey+"/conditions/q/pws:KMIGRAND34.json"
                                                     var body = ""
